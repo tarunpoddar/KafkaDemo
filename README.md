@@ -12,7 +12,10 @@ Demo application of Confluent Kafka with Producer and Consumer.
 4. Copy docker-compose-yml file from https://github.com/confluentinc/cp-all-in-one/blob/7.4.0-post/cp-all-in-one/docker-compose.yml
 
 ## Application Screenshots
-	
+![image](https://github.com/tarunpoddar/KafkaDemo/assets/62183124/bce353b5-eb9a-4633-8aff-337ee46ec7b8)
+![image](https://github.com/tarunpoddar/KafkaDemo/assets/62183124/18064b40-7457-442c-8953-8474996b835d)
+
+ 
 ![image](https://github.com/tarunpoddar/KafkaDemo/assets/62183124/1a93ea0c-a5b6-44f9-b4f7-d9a98b6b611d)
 
 ![image](https://github.com/tarunpoddar/KafkaDemo/assets/62183124/a1f4a721-4d38-4dfd-b646-9b858c6191a1)
